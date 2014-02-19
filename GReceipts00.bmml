@@ -93,5 +93,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="593" y="283" w="-1" h="-1" measuredW="93" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ComboBox</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
